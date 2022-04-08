@@ -133,6 +133,7 @@ namespace StringVibrationCalculator
             if (txtUl.Text.StartsWith("0") && !txtUl.Text.StartsWith("0.") && e.KeyChar != '\b' && e.KeyChar != (int)'.')
             {
                 e.Handled = true;
+                //sss
             }
         }
     }
