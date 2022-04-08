@@ -1,0 +1,10 @@
+C:\Users\skocak\source\repos\StringVibrationCalculator\StringVibrationCalculator\bin\Debug\StringVibrationCalculator.exe.config
+C:\Users\skocak\source\repos\StringVibrationCalculator\StringVibrationCalculator\bin\Debug\StringVibrationCalculator.exe
+C:\Users\skocak\source\repos\StringVibrationCalculator\StringVibrationCalculator\bin\Debug\StringVibrationCalculator.pdb
+C:\Users\skocak\source\repos\StringVibrationCalculator\StringVibrationCalculator\obj\Debug\StringVibrationCalculator.csproj.AssemblyReference.cache
+C:\Users\skocak\source\repos\StringVibrationCalculator\StringVibrationCalculator\obj\Debug\StringVibrationCalculator.Form1.resources
+C:\Users\skocak\source\repos\StringVibrationCalculator\StringVibrationCalculator\obj\Debug\StringVibrationCalculator.Properties.Resources.resources
+C:\Users\skocak\source\repos\StringVibrationCalculator\StringVibrationCalculator\obj\Debug\StringVibrationCalculator.csproj.GenerateResource.cache
+C:\Users\skocak\source\repos\StringVibrationCalculator\StringVibrationCalculator\obj\Debug\StringVibrationCalculator.csproj.CoreCompileInputs.cache
+C:\Users\skocak\source\repos\StringVibrationCalculator\StringVibrationCalculator\obj\Debug\StringVibrationCalculator.exe
+C:\Users\skocak\source\repos\StringVibrationCalculator\StringVibrationCalculator\obj\Debug\StringVibrationCalculator.pdb
